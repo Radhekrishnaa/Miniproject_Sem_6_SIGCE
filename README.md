@@ -6,7 +6,7 @@ Topic Name: Epic NFT Marketplace
 
 Students:
 
-Sachin Kumar Sahu
+
 
 Radhekrishna Mishra
 
